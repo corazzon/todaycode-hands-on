@@ -2,6 +2,7 @@
 
 1. Colab 소개 및 활용법
     * https://colab.research.google.com/notebooks/welcome.ipynb
+    * 아나콘다와 차이점 [Anaconda Python/R Distribution - Free Download](https://www.anaconda.com/distribution/) 
 1. Python 기초
     * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/todaycode-hands-on/blob/master/python-for-eda.ipynb)
 1. Pandas 기초
